@@ -13,8 +13,6 @@ procedural, fractal
 - The Monte Carlo solution to the integral lighting equation including many importance sampling
 techniques, multiple-importance sampling and other performance enhancements.
 
-
-![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/c1e69304-dec6-4a0c-b748-9a064a03cfc6)
-
-
-![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/fa194ed0-8d6f-4e03-9485-fe23cc715349)
+![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/51bf9e25-85e8-4ffd-b66c-dff46208c2b4)
+![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/d6152fa7-fd11-4258-97bd-754868b894be)
+![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/41825ae7-828d-4adc-98cb-a1454fb0800f)
