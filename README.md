@@ -14,6 +14,7 @@ procedural, fractal
 techniques, multiple-importance sampling and other performance enhancements.
 
 
-![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/56431461-8bba-4b2d-9615-81906ea82979)
+![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/edc61962-284a-498b-ab7e-1630fd51826c)
+
 
 ![image](https://github.com/Hyosang-Jeong/RayCasting/assets/70678504/fa194ed0-8d6f-4e03-9485-fe23cc715349)
